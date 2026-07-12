@@ -1,0 +1,13 @@
+{
+    "name": "guro4/vendor",
+    "authors": [
+        {
+            "name": "christopherreysanjose-source",
+            "email": "christopherreysanjose@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phppresentation": "^0.9.0",
+        "mpdf/mpdf": "^6.1"
+    }
+}
